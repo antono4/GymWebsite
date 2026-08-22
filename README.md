@@ -1,2 +1,26 @@
-Last updated: 2026-08-22 14:05:21 WIB
-Last updated: 2026-08-22 14:19:26 WIB
+# GymWebsite
+
+
+
+## 📋 Overview
+
+This repository contains **32 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-22 14:22:41 WIB*
